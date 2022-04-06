@@ -1,1 +1,1 @@
-This readme is for pointers arrays strings
+The readme for argc and argv
